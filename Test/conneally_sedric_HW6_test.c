@@ -1,7 +1,6 @@
 /**************************************************************
  * Class:  CSC-415-03 Fall 2021
  * Name: Sedric Conneally
- * Student ID: 921030432
  * GitHub UserID: sedricconneally
  * Project: Assignment 6 – Device Driver
  *
